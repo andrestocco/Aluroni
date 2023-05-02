@@ -1,3 +1,15 @@
+<h1 align="left">Pagina dinâmica para a elaboração de times de colaboradores em diferentes áreas.</h1>
+
+## Tecnologias utilizadas durante o curso
+* Typescript
+* ReactJS
+
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
+
+________________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
